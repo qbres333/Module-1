@@ -4,17 +4,26 @@
   }
   
 .section-blue {
-
+  background-color: blue;
+  color: orange;
 }
   
 .container {
+  background-color: black;
 
 }
 
 #section-1 {
+  background-color: purple;
+  color: yellow;
+}
 
+#section-4,
+#section-5 {
+  color: white;
 }
 
 #section-6 {
+  color: yellow;
 
 }
