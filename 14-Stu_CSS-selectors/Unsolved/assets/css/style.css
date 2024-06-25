@@ -1,9 +1,11 @@
 /* TODO: Label selector type */
+/* universal selector; font applies to the entire webpage */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
 /* TODO: Label selector type */
+/* type selector; background color of the body of the webpage */
 body {
   background-color: lemonchiffon;
 }
@@ -23,11 +25,13 @@ figure {
 }
 
 /* TODO: Label selector type */
+/* makes the font bold for any element with class "highlighted-text" */
 .highlighted-text {
   font-weight: bolder;
 }
 
 /* TODO: Label selector type */
+/* id selector; for any element with with id="contact-section"*/
 #contact-section {
   background-color: #f0ead6;
 }
